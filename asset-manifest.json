@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/educ-first/static/css/main.05095d14.chunk.css",
+    "main.js": "/educ-first/static/js/main.442fe8f5.chunk.js",
+    "main.js.map": "/educ-first/static/js/main.442fe8f5.chunk.js.map",
+    "runtime-main.js": "/educ-first/static/js/runtime-main.0ef0d1fd.js",
+    "runtime-main.js.map": "/educ-first/static/js/runtime-main.0ef0d1fd.js.map",
+    "static/js/2.aec85332.chunk.js": "/educ-first/static/js/2.aec85332.chunk.js",
+    "static/js/2.aec85332.chunk.js.map": "/educ-first/static/js/2.aec85332.chunk.js.map",
+    "index.html": "/educ-first/index.html",
+    "static/css/main.05095d14.chunk.css.map": "/educ-first/static/css/main.05095d14.chunk.css.map",
+    "static/js/2.aec85332.chunk.js.LICENSE.txt": "/educ-first/static/js/2.aec85332.chunk.js.LICENSE.txt",
+    "static/media/back.7519e694.svg": "/educ-first/static/media/back.7519e694.svg",
+    "static/media/give-classes.c4f66599.svg": "/educ-first/static/media/give-classes.c4f66599.svg",
+    "static/media/landing.09c35b9f.svg": "/educ-first/static/media/landing.09c35b9f.svg",
+    "static/media/logo.378f1127.svg": "/educ-first/static/media/logo.378f1127.svg",
+    "static/media/purple-heart.cf1a5ee2.svg": "/educ-first/static/media/purple-heart.cf1a5ee2.svg",
+    "static/media/study.6de63dae.svg": "/educ-first/static/media/study.6de63dae.svg",
+    "static/media/warning.2eb383a1.svg": "/educ-first/static/media/warning.2eb383a1.svg",
+    "static/media/whatsapp.a70fb4ca.svg": "/educ-first/static/media/whatsapp.a70fb4ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ef0d1fd.js",
+    "static/js/2.aec85332.chunk.js",
+    "static/css/main.05095d14.chunk.css",
+    "static/js/main.442fe8f5.chunk.js"
+  ]
+}
